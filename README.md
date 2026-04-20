@@ -44,11 +44,11 @@ cloud-sdlc-pipeline/
 
 | Metric | Before | After | Impact |
 |--------|--------|-------|--------|
-| Deployment Lead Time | 2 weeks | < 30 minutes | **95% faster delivery** |
+| Deployment Lead Time | 2 weeks | Under 30 min | **95% faster delivery** |
 | Deployment Frequency | Biweekly | Multiple daily | **10x throughput** |
-| Rollback Rate | 15% | < 2% | **87% fewer failures** |
-| Vulnerability Escape Rate | 30%+ to prod | < 6% | **94% pre-prod catch rate** |
-| Change Failure Rate | 20% | < 5% | **4x reliability improvement** |
+| Rollback Rate | 15% | Under 2% | **87% fewer failures** |
+| Vulnerability Escape Rate | 30%+ to prod | Under 6% | **94% pre-prod catch rate** |
+| Change Failure Rate | 20% | Under 5% | **4x reliability improvement** |
 
 ---
 
@@ -91,9 +91,9 @@ cloud-sdlc-pipeline/
 | DORA Metric | Target | Achieved | Rating |
 |-------------|--------|----------|--------|
 | Deployment Frequency | Multiple daily | 4-6 per day | **Elite** |
-| Lead Time for Changes | < 1 hour | ~30 minutes | **Elite** |
-| Change Failure Rate | < 5% | 3.2% | **Elite** |
-| Time to Restore Service | < 1 hour | ~25 minutes | **Elite** |
+| Lead Time for Changes | Under 1 hour | ~30 minutes | **Elite** |
+| Change Failure Rate | Under 5% | 3.2% | **Elite** |
+| Time to Restore Service | Under 1 hour | ~25 minutes | **Elite** |
 
 ---
 
